@@ -1,7 +1,7 @@
 # How to get hired as a data scientist
-Ryan Herr & Jason Bowles.
-Champaign-Urbana Data Science User Group.
-April 7, 2017.
+Ryan Herr & Jason Bowles  
+Champaign-Urbana Data Science User Group  
+April 7, 2017  
 
 ## Links
 - [Tim Hopper — Some Reflections on Being Turned Down for a Lot of Data Science Jobs](http://tdhopper.com/blog/2017/Mar/06/some-reflections-on-being-turned-down-for-a-lot-of-data-science-jobs/)
